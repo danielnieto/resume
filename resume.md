@@ -1,4 +1,4 @@
-# Germán Daniel Nieto Gutierrez
+# Germán Daniel Nieto Gutiérrez
 ***
 ## SUMMARY
 
