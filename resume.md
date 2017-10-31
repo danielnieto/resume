@@ -17,7 +17,7 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 		<td>MVVM</td>
 		<td>Rapid Prototyping</td>
 		<td>Electron</td>
-		<td>Angular 2</td>
+		<td>Angular 2+</td>
 	</tr>
 	<tr>
 		<td>Typescript</td>
@@ -35,13 +35,26 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 ## EXPERIENCE
 
+- ### Credytag
+	*01/2017 - Present*
+	
+	__Frontend Developer__
+	
+	Leading web application development for [Credytag] (http://credytag.com), a start-up I work with in my spare time, this company is focused on allowing clients to pay with their cellphones via QR Codes that can be placed within the store itself or carried by a delivery person. This product is still in development.
+	
+	I'm developing the Seller's web app, in which they can configure bank accounts, review payments, setup QR codes, etc.
+	
+	Technologies: Angular 4, Typescript, RxJS, Angular-cli, NPM, Flexbox, GIT
+
 - ### Oracle
 
 	*08/2016 - Present*
 
 	__Senior UX Developer__
 
-	Leading prototype development of new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used for demoing purposes, and/or to perform usability studies to collect feedback from real users.
+	Leading prototype development of new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used for demoing purposes to potential clients, and/or to perform usability studies to collect feedback from real users.
+
+	Technologies: [Oracle JET ](http://www.oracle.com/webfolder/technetwork/jet/index.html) (JS Framework), [RequireJS](http://requirejs.org/) (AMD loader), [KnockoutJS](http://knockoutjs.com/) (MVVM), ReactJS, ES6, HTML5, CSS3, Flexbox, GIT
 
 - ### Oracle
 
@@ -49,7 +62,9 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 	__UX Developer__
 
-	Prototype new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used for demoing purposes, and/or to perform usability studies to collect feedback from real users to deliver the best UX possible in the future releases of our software.
+	Prototype new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used to perform usability studies to collect feedback from real users to deliver the best UX possible in the future releases of our software.
+	
+	Technologies: [KnockoutJS](http://knockoutjs.com/) (MVVM), JQuery, JQuery UI
 
 - ### Niktin Games
 
@@ -57,12 +72,14 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 	__Founder__
 
-	I founded this indie ($0 funds) game development studio, I dedicated myself to teach game development to people who wanted to join me, I got to publish 1 game (Germ Defense) under the Niktin Games brand reaching up to 35,000 downloads on iOS and Android within the first year, before it was removed from appstores.
+	I founded this indie ($0 funds) game development studio, I dedicated myself to teach game development to people who wanted to join me, I got to publish 1 game [Germ Defense](https://play.google.com/store/apps/details?id=com.niktingames.GermDefense) under the Niktin Games brand reaching up to 35,000 downloads on iOS and Android within the first year.
 I created every aspect of the game by myself, from 3D modelling, rigging, texturing, animation, rendering, spritesheet packing, level design, to programming, music, logos, icons, 2D designs, and its publishing.
 
-	The Niktin Games website is still alive in this address: `http://www.niktingames.com`
+	The Niktin Games website is still alive in this address: [http://www.niktingames.com](http://www.niktingames.com)
 
 	2 more games were left in advanced stages of development.
+	
+	Technologies: [Blender 3D](https://www.blender.org/) (open source 3D creation suite), [Lua](https://www.lua.org/) (programming language), [Corona SDK](https://coronalabs.com/) (2d game engine), Illustrator, Unity3d, C#
 
 
 - ### Freelance
@@ -70,6 +87,16 @@ I created every aspect of the game by myself, from 3D modelling, rigging, textur
 	*2007 - Present*
 
 	Design and web programming of more than 15 websites for several business with assorted web technologies.
+	
+	Technologies: PHP, MySQL, Apache, [Joomla](https://www.joomla.org/) (CMS), Photoshop
+	
+- ### Open Source Community
+
+	*Ongoing*
+	
+	I like to keep myself up-to-date doing side projects, such as [scrapman](https://github.com/danielnieto/scrapman) and [electron-download-manager] (https://github.com/danielnieto/electron-download-manager), for these projects I use Javascript and related technologies.
+	
+	Technologies: [Electron](https://electron.atom.io/) (desktop apps with web technologies), Node, Mongo, VueJS, NPM, GIT
 
 ## EDUCATION
 
