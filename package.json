@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "description": "Daniel Nieto's resume in Markdown, ready to be exported to PDF format.",
+  "scripts": {
+    "compile": "markdown-pdf --css-path custom.css resume.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielnieto/resume.git"
+  },
+  "author": "Daniel Nieto",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-pdf": "^8.0.0"
+  }
+}
