@@ -40,7 +40,7 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 	
 	__Frontend Developer__
 	
-	Leading web application development for [Credytag] (http://credytag.com), a start-up I work with in my spare time, this company is focused on allowing clients to pay with their cellphones via QR Codes that can be placed within the store itself or carried by a delivery person. This product is still in development.
+	Leading web application development for [Credytag](http://www.credytag.com), a start-up I work with in my spare time, this company is focused on allowing clients to pay with their cellphones via QR Codes that can be placed within the store itself or carried by a delivery person. This product is still in development.
 	
 	I'm developing the Seller's web app, in which they can configure bank accounts, review payments, setup QR codes, etc.
 	
@@ -54,7 +54,7 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 	Leading prototype development of new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used for demoing purposes to potential clients, and/or to perform usability studies to collect feedback from real users.
 
-	Technologies: [Oracle JET ](http://www.oracle.com/webfolder/technetwork/jet/index.html) (JS Framework), [RequireJS](http://requirejs.org/) (AMD loader), [KnockoutJS](http://knockoutjs.com/) (MVVM), ReactJS, ES6, HTML5, CSS3, Flexbox, GIT
+	Technologies: [Oracle JET ](http://www.oracle.com/webfolder/technetwork/jet/index.html) (JS Framework), [RequireJS](http://requirejs.org/) (AMD loader), [KnockoutJS](http://knockoutjs.com) (MVVM), ReactJS, ES6, HTML5, CSS3, Flexbox, GIT
 
 - ### Oracle
 
@@ -64,7 +64,7 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 	Prototype new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used to perform usability studies to collect feedback from real users to deliver the best UX possible in the future releases of our software.
 	
-	Technologies: [KnockoutJS](http://knockoutjs.com/) (MVVM), JQuery, JQuery UI
+	Technologies: [KnockoutJS](http://knockoutjs.com) (MVVM), JQuery, JQuery UI
 
 - ### Niktin Games
 
@@ -94,9 +94,9 @@ I created every aspect of the game by myself, from 3D modelling, rigging, textur
 
 	*Ongoing*
 	
-	I like to keep myself up-to-date doing side projects, such as [scrapman](https://github.com/danielnieto/scrapman) and [electron-download-manager] (https://github.com/danielnieto/electron-download-manager), for these projects I use Javascript and related technologies.
+	I like to keep myself up-to-date doing side projects, such as [scrapman](https://github.com/danielnieto/scrapman) and [electron-download-manager](https://github.com/danielnieto/electron-download-manager), for these projects I use Javascript and related technologies.
 	
-	Technologies: [Electron](https://electron.atom.io/) (desktop apps with web technologies), Node, Mongo, VueJS, NPM, GIT
+	Technologies: [Electron](https://electron.atom.io) (desktop apps with web technologies), Node, Mongo, VueJS, NPM, GIT
 
 ## EDUCATION
 
