@@ -35,16 +35,33 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 ## EXPERIENCE
 
+- ### Envato (Placeit.net)
+	*05/2018 - Present*
+
+	__Frontend Developer__
+
+	I'm a developer building many of the most recent features of Placeit. Altough I'm mainly a front-end engineer, I have done backend work as well using NodeJS, here is a list of some of the features that I have worked on:
+	- __Redesign of the homepage__
+  	- __Lists components:__ I created the component that shows stacked images/videos and allows the user to swipe/scroll through them, this component is found on the Homepage and on all results pages.
+  	- __Video pages:__ I built the UI and all the business logic to allow users to add slides to their video stages, let them sort (drag and drop), duplicate and delete them. Also play the videos on mouse hover, show progress on the playback, update the previews when the video is processed, and persist video previews across browser history changes.
+  	- __Audios Waveform (MP3 to SVG):__ I created the node module that Placeit uses to read a MP3 file, decodes its PCM data and then generates an SVG file with the waves from the audio in the form of bars, this SVG file then gets uploaded to Amazon S3 and is used across Video stage pages.
+  	- __Audio Player widgets:__ I created the Audio Player widgets that are found on the Video pages and on the Audio Library. These Audio players allow lazy .mp3 loading upon playing, and seek-and-play, also, the player displays the playback progress using the SVG files that my node module creates.
+  	- __User uploads / Cropper server:__ I created the Node server (using Express) that accepts user uploaded images to use within our stages. This server's responsibility is to accept user content and/or reposition (crop, zoom in/out) the media upon user request, then uploads the result to Amazon S3, to be served on the frontend.
+
+	[Placeit.net](https://www.placeit.net) is a company that was recently acquired by [Envato](https://envato.com/)
+
+	Technologies: Vanilla Javascript, jQuery, Node, Ruby on Rails, GIT, SCSS, Flexbox, Neon
+
 - ### Credytag
 	*01/2017 - Present*
-	
+
 	__Frontend Developer__
-	
+
 	Leading web application development for [Credytag](http://www.credytag.com), a start-up I work with in my spare time, this company is focused on allowing clients to pay with their cellphones via QR Codes that can be placed within the store itself or carried by a delivery person. This product is still in development.
-	
+
 	I'm developing the Seller's web app, in which they can configure bank accounts, review payments, setup QR codes, etc.
-	
-	Technologies: Angular 4, Typescript, RxJS, Angular-cli, NPM, Flexbox, GIT
+
+	Technologies: Angular 7, Typescript, RxJS, Angular-cli, NPM, Flexbox, GIT
 
 - ### Oracle
 
@@ -63,7 +80,7 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 	__UX Developer__
 
 	Prototype new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used to perform usability studies to collect feedback from real users to deliver the best UX possible in the future releases of our software.
-	
+
 	Technologies: [KnockoutJS](http://knockoutjs.com) (MVVM), JQuery, JQuery UI
 
 - ### Niktin Games
@@ -78,7 +95,7 @@ I created every aspect of the game by myself, from 3D modelling, rigging, textur
 	The Niktin Games website is still alive in this address: [http://www.niktingames.com](http://www.niktingames.com)
 
 	2 more games were left in advanced stages of development.
-	
+
 	Technologies: [Blender 3D](https://www.blender.org/) (open source 3D creation suite), [Lua](https://www.lua.org/) (programming language), [Corona SDK](https://coronalabs.com/) (2d game engine), Illustrator, Unity3d, C#
 
 
@@ -87,15 +104,15 @@ I created every aspect of the game by myself, from 3D modelling, rigging, textur
 	*2007 - Present*
 
 	Design and web programming of more than 15 websites for several business with assorted web technologies.
-	
+
 	Technologies: PHP, MySQL, Apache, [Joomla](https://www.joomla.org/) (CMS), Photoshop
-	
+
 - ### Open Source Community
 
 	*Ongoing*
-	
+
 	I like to keep myself up-to-date doing side projects, such as [scrapman](https://github.com/danielnieto/scrapman) and [electron-download-manager](https://github.com/danielnieto/electron-download-manager), for these projects I use Javascript and related technologies.
-	
+
 	Technologies: [Electron](https://electron.atom.io) (desktop apps with web technologies), Node, Mongo, VueJS, NPM, GIT
 
 ## EDUCATION
@@ -200,7 +217,7 @@ I created every aspect of the game by myself, from 3D modelling, rigging, textur
 
 - __Github__: `https://github.com/danielnieto`
 - __LinkedIn__: `https://www.linkedin.com/in/danielnieto89`
- 
+
 
 __*Markdown Source of this resume can be found at:*__ `https://github.com/danielnieto/resume`
 
