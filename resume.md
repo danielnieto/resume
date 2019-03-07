@@ -209,7 +209,7 @@ I created every aspect of the game by myself, from 3D modelling, rigging, textur
 - __Email:__ ​danielnieto89@gmail.com
 - __Address:__ ​Rinconada Atemajac Poniente #215, Rinconadas del Valle
 - __City:__ ​Zapopan, Jalisco, Mexico
-- __Cellphone:__​(+52) 341­103­7934
+- __Cellphone:__ ​(+52) 341­103­7934
 - __Birthday:​__ 17th June 1989
 - __Civil status:​__ Single
 
