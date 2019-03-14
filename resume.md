@@ -8,16 +8,16 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 <table width="100%">
 	<tr>
-		<td>User Experience</td>
+		<td>Oracle JET</td>
 		<td>HTML5</td>
-		<td>CSS3</td>
+		<td>CSS3 / SCSS</td>
 		<td>JS2015 / ES6</td>
 	</tr>
 	<tr>
-		<td>MVVM</td>
-		<td>Rapid Prototyping</td>
 		<td>Electron</td>
-		<td>Angular 2+</td>
+		<td>User Experience</td>
+		<td>React</td>
+		<td>Angular</td>
 	</tr>
 	<tr>
 		<td>Typescript</td>
@@ -65,11 +65,13 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 - ### Oracle
 
-	*08/2016 - Present*
+	*08/2016 - 05/2018*
 
 	__Senior UX Developer__
 
-	Leading prototype development of new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used for demoing purposes to potential clients, and/or to perform usability studies to collect feedback from real users.
+	Leading prototype development (using Oracle JET) of new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes were used for demoing purposes to potential clients, and/or to perform usability studies to collect feedback from real users.
+
+	Also, I migrated our plain html/js/css project to Oracle JET,  I created a library of JET components that mimicked ADF components' look-and-feel and interactions to be used across prototypes that worked completely on the frontend with mocked data.
 
 	Technologies: [Oracle JET ](http://www.oracle.com/webfolder/technetwork/jet/index.html) (JS Framework), [RequireJS](http://requirejs.org/) (AMD loader), [KnockoutJS](http://knockoutjs.com) (MVVM), ReactJS, ES6, HTML5, CSS3, Flexbox, GIT
 
@@ -79,7 +81,7 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 	__UX Developer__
 
-	Prototype new features and workflows for Oracle HCM applications (HTML5/JS/CSS3), these prototypes are used to perform usability studies to collect feedback from real users to deliver the best UX possible in the future releases of our software.
+	Prototype new features and workflows for Oracle HCM applications (HTML/JS/CSS), these prototypes were used to perform usability studies to collect feedback from real users to deliver the best UX possible in the future releases of our software.
 
 	Technologies: [KnockoutJS](http://knockoutjs.com) (MVVM), JQuery, JQuery UI
 
@@ -89,10 +91,9 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 
 	__Founder__
 
-	I founded this indie ($0 funds) game development studio, I dedicated myself to teach game development to people who wanted to join me, I got to publish 1 game [Germ Defense](https://play.google.com/store/apps/details?id=com.niktingames.GermDefense) under the Niktin Games brand reaching up to 35,000 downloads on iOS and Android within the first year.
-I created every aspect of the game by myself, from 3D modelling, rigging, texturing, animation, rendering, spritesheet packing, level design, to programming, music, logos, icons, 2D designs, and its publishing.
+	I founded this indie ($0 funds) game development studio, I dedicated myself to teach game development to people who wanted to join me in my journey, I got to publish 1 game [Germ Defense](https://www.youtube.com/watch?v=LnBdmmLeoGg) under the Niktin Games brand reaching up to 60,000 downloads on iOS and Android within its lifespan.
 
-	The Niktin Games website is still alive in this address: [http://www.niktingames.com](http://www.niktingames.com)
+	I created every aspect of the game by myself, from 3D modelling, rigging, texturing, animation, rendering, spritesheet packing, level design, to programming, music, logos, icons, 2D designs, and its publishing.
 
 	2 more games were left in advanced stages of development.
 
