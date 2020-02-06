@@ -15,15 +15,15 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 	</tr>
 	<tr>
 		<td>Electron</td>
-		<td>User Experience</td>
+		<td>Express</td>
 		<td>React</td>
 		<td>Angular</td>
 	</tr>
 	<tr>
 		<td>Typescript</td>
-		<td>2D Design</td>
-		<td>3D Design</td>
-		<td>Java</td>
+		<td>Python</td>
+		<td>Ruby / Ruby on Rails</td>
+		<td>Django</td>
 	</tr>
 	<tr>
 		<td>NodeJS</td>
@@ -36,7 +36,18 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 ## EXPERIENCE
 
 - ### Envato (Placeit.net)
-	*05/2018 - Present*
+
+	*01/2020 - Present*
+
+	__Frontend Tech Lead__
+
+	As one of the 2 frontend tech leads, I'm leading the frontend for Placeit, my responsibilities besides still being a Frontend Developer are:
+	- Code reviews and signoffs
+	- Ensure teammates follow our software development process (x-workflow)
+	- Provide technical advice
+	- Review specification documents
+
+	*05/2018 - 01/2020*
 
 	__Frontend Developer__
 
@@ -53,13 +64,14 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 	Technologies: Vanilla Javascript, jQuery, Node, Ruby on Rails, GIT, SCSS, Flexbox, Neon
 
 - ### Credytag
-	*01/2017 - Present*
+
+	*01/2017 - 01/2020*
 
 	__Frontend Developer__
 
-	Leading web application development for [Credytag](http://www.credytag.com), a start-up I work with in my spare time, this company is focused on allowing clients to pay with their cellphones via QR Codes that can be placed within the store itself or carried by a delivery person. This product is still in development.
+	Leading web application development for [Credytag](https://github.com/danielnieto/credytag-web-business), a start-up I work with in my spare time, this company was focused on allowing clients to pay with their cellphones via QR Codes that can be placed within the store itself or carried by a delivery person. This product is still in development.
 
-	I'm developing the Seller's web app, in which they can configure bank accounts, review payments, setup QR codes, etc.
+	I developed the Seller's web app, in which they can configure bank accounts, review payments, setup QR codes, etc.
 
 	Technologies: Angular 7, Typescript, RxJS, Angular-cli, NPM, Flexbox, GIT
 
@@ -212,7 +224,7 @@ I've been involved in technology since I can recall, I've done all kinds of comp
 - __City:__ ​Zapopan, Jalisco, Mexico
 - __Cellphone:__ ​(+52) 341­103­7934
 - __Birthday:​__ 17th June 1989
-- __Civil status:​__ Single
+- __Civil status:​__ Married
 
 ## LINKS
 
